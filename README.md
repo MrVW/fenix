@@ -31,7 +31,7 @@ $ sudo apt-get install git make lsb-release qemu-user-static
 ```bash
 $ mkdir -p ~/project/khadas
 $ cd ~/project/khadas
-$ git clone --depth 1 https://github.com/MrVW/fenix
+$ git clone --depth 1 https://github.com/MrVW/fenix_biao
 $ cd fenix
 ```
 
